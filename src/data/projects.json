@@ -1,0 +1,23 @@
+[
+  {
+    "title": "CRUD Operation",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project  refer to the basic functions of persistent storage: Create (add new records), Read (retrieve existing records), Update (modify existing records), and Delete (remove existing records).",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/nagendragt12/CRUD"
+  },
+  {
+    "title": "Role Based Authentication",
+    "imageSrc": "projects/project.png",
+    "description": "Role-Based Authentication is a security process that assigns permissions to users based on their roles within an organization, ensuring that users can only access resources and perform actions permitted by their role.",
+    "skills": ["Java", "Spring Boot", "Hibernet", "Maven"],
+    "source": "https://github.com/nagendragt12/Role-Based-Authenticationn"
+  },
+  {
+    "title": "Web Scrap",
+    "imageSrc": "projects/project.png",
+    "description": "This project involves extracting data from websites using automated scripts to gather and process information for various purposes such as analysis, research, or application development.",
+    "skills": ["Python", "pandas", "BeautifulSoup"],
+    "source": "https://github.com/nagendragt12/web-scrap"
+  }
+]
